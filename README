@@ -2,3 +2,4 @@ Project Title : String Library.
 Name : Sneha Sunil Bansode
 MIS : 111508014
 Description :
+          Code consists of functions included in the string (included in header file string.h) library. It also contains a makefile and a test file which is in text format and tests the functions of the string library and has some functions which are part of "strings.h" library.
